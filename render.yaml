@@ -19,6 +19,6 @@ envVarGroups:
   - key: MYSQL_USER
     value: mysql
   - key: MYSQL_PASSWORD
-    generateValue: 3419
+    generateValue: "3419"
   - key: MYSQL_ROOT_PASSWORD
-    generateValue: 0000
+    generateValue: "0000"
